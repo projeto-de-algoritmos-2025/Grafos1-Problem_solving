@@ -30,6 +30,9 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 ### Exercício 03 - Médio
 [Problem 520 - Two Buttons](https://codeforces.com/problemset/problem/520/B)
 
+### Exercício 04 - Difícil
+[Estradas asfaltadas - o início](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23grafo-nucleos-cidades)
+
 <!-- Nao ordenei por dificuldade, seria legal fazermos mais que só 3-->
 ## Vídeo de apresentação do Trabalho 1
 
