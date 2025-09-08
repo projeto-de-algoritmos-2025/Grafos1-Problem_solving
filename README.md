@@ -27,16 +27,18 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 ### Exercício 02 - Difícil
 [Problem 580 - Kefa and Park](https://codeforces.com/problemset/problem/580/C)
 
-### Exercício 03 - Médio
-[Problem 520 - Two Buttons](https://codeforces.com/problemset/problem/520/B)
+### Exercício 03 - Difícil
+[Problme 377 - Maze](https://codeforces.com/problemset/problem/377/A)
 
 ### Exercício 04 - Difícil
 [Estradas asfaltadas - o início](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23grafo-nucleos-cidades)
 
 <!-- Nao ordenei por dificuldade, seria legal fazermos mais que só 3-->
 ## Vídeo de apresentação do Trabalho 1
+[Vídeo](https://www.youtube.com/watch?v=AN1kJaBE_gw)
 
 
 ### Links
 Site usado para coletar exercícios
 [Static A2OJ](https://a2oj.netlify.app/dfs%20&%20bfs%20&%20dijkstra)
+[Moj](https://moj.naquadah.com.br/)
